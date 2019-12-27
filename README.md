@@ -5,7 +5,7 @@
  -->
 # VO-with-DL-Paper-Collection
 
-Paper collection of visual odometry with deep learning method.
+Paper collection of visual odometry with deep learning method. If you have any suggestions or anything to add, please feel free to open an issue.
 
 ## 2016
 |Conference| Title | Code |
