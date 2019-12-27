@@ -3,7 +3,7 @@
  * @Date: 2019-12-23 17:01:24
  * @Description: Paper collection of visual odometry with deep learning method.
  -->
-# VO-with-DL-Paper-Collection
+# Awesome-Visual-Odometry-DL-Paper
 
 Paper collection of visual odometry with deep learning method. If you have any suggestions or anything to add, please feel free to open an issue.
 
